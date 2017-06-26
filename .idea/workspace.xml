@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e267785-d5a5-4af4-b7e6-cab430616de7" name="Default" comment="" />
+    <list default="true" id="5e267785-d5a5-4af4-b7e6-cab430616de7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="info.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="info.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/info.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="546">
@@ -26,6 +28,16 @@
                 <element signature="e#1115#1121#0" expanded="true" />
                 <element signature="e#1243#1249#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,6 +82,7 @@
         <option value="$PROJECT_DIR$/src/pages/user.vue" />
         <option value="$PROJECT_DIR$/src/pages/new.vue" />
         <option value="$PROJECT_DIR$/src/pages/info.vue" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -329,7 +342,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96628000" />
+    <option name="totallyTimeSpent" value="96769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -396,13 +409,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/index.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -736,6 +742,14 @@
             <element signature="e#1115#1121#0" expanded="true" />
             <element signature="e#1243#1249#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
