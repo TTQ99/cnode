@@ -1,0 +1,44 @@
+// { : 
+//   code : 接口状态码
+//   desc : 接口状态描述
+//   requestUri : 备用
+//   result{ : 业务返回信息
+//       nowPage : 
+//       pageSize : 
+//       totalCount : 
+//       totalPageNum : 
+//       list{ : 
+//           expressAddress : 收货地址
+//           invoiceModel : 开票种类
+//           header : 发票抬头
+//           applyTime : 申请开票时间
+//           applySource : 申请来源
+//           orderId : 订单ID
+//           orderCode : 订单编码
+//           source : 订单来源
+//           totalPrice : 订单金额
+//           userName : 联系人
+//           mobile : 手机
+//           dealStatus : 订单状态
+//           invoiceStatus : 发票状态
+//           invoiceType : 发票类型
+//           taxPayerId : 纳税人识别码
+//           email : 邮箱
+//           applyId : 开票申请
+//           orderSkuItems{ : 订单SKU明细
+//               id : 订购记录主键
+//               skuId : skuId
+//               quantity : 商品数量
+//               paymentPrice : 平均支付价格
+//               originalPrice : 原价
+//               sumPrice : 订单内此sku总支付价
+//               name : sku名称
+//               imgUrl : 缩略图地址
+//               type : sku类型
+//               barcode : 商品69码/条形码. SkuAttrs.PRODUCT_BARCODE
+//               specifications{ : 商品的规格
+//               }
+//           }
+//       }
+//   }
+// } 
