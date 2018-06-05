@@ -10,6 +10,7 @@ import newTipic from '@/pages/new'
 import user from '@/pages/user'
 import info from '@/pages/info'
 import error from '@/pages/error'
+import util from '@/pages/util'
 
 Vue.use(Router)
 
@@ -64,6 +65,11 @@ export default new Router({
       path: '/error',
       name: 'error',
       component: error
+    },
+    {
+      path: '/util',
+      name: 'util',
+      component: util
     },
     {
       path: '*',

@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-## [demo](https://ttq99.github.io/cnode/dist/#/)
+[demo](https://ttq99.github.io/cnode/dist/#/)
 
 ## Build Setup
 
