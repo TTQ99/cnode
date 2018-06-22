@@ -21,7 +21,7 @@
         a = a.replace(/<.*>/g, '')
         // a = a.replace(/{ :.*/g, '{')
         a = a.replace(/{/g, ':{')
-        a = a.replace(/ : \S*/g, ':123,')
+        // a = a.replace(/ : \S*/g, ':123,')
         // a = a.replace(/".*/g, '123,')
         this.newStr = a
       }
